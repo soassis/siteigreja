@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    text-shadow: none;
+    font-size: 18px;
+}
+img{
+    border-radius: 50px;
+    margin: 40px;
+    border-radius: 50px;
+    border-width: 50px;
+}
+nav{
+    margin: 40px;
+    padding: 20px;
+    border-style: double;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 10px;
+  font-family: 'Courier New', Courier, monospace;
+ font-size: medium;
+}
+a{
+    background-color: wheat ;
+   color: mediumblue;
+   font-size: larger;
+}
+section{
+    border: 2px solid black;
+ margin-top: 50px;
+ font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    color: mediumblue;
+    background-color: lavender;
+}
+
+
